@@ -1,0 +1,6 @@
+1|Carl Adam Petri|c.a.petri@t-online.de|i_am_petri|I am the inventor<br />
+of the very fabulous Petri nets|dog|mad|java|en|petri.jpg
+1|Miguel de Cervantes|cervantes@rae.es|quixote|En algún lugar de la Mancha<br />
+de cuyo nombre no quiero acordarme...|cat|mad||es|678.cervantes.jpg
+1|Mohammed Ali Amar "Nayim"|nayim@realzaragoza.es||||bcn||en,es|Nayim.jpg
+1|Invisible Man|||I have no photo because I am the invisible man||zgz||en|
